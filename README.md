@@ -51,6 +51,7 @@
   Statistiques
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakmar&count_private=true&show_icons=true&theme=tokyonight" alt="Rakmar's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakmar&count_private=true&show_icons=true&theme=tokyonight" alt="Rakmar's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakmar&layout=compact&theme=tokyonight"/>
 </p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Rakmar.Rakmar"/>
